@@ -1,5 +1,5 @@
 'use-strict'
-
+//require hack36
 // This sample will post a basic message in your LinkedIn profile
 
 const https = require('https');
