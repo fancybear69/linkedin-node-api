@@ -7,7 +7,7 @@ The *Share on LinkedIn* API is limited for anyone that is not a LinkedIn develop
 For this repository, I assumed a good number of people would want to get straight to the point and understand how to operate the Linked Share API. Therefore, I have written a minimalistic implementation omitting errors handling, security and best practice of coding.
 
 #### Step 1 | Register the app in LinkedIn Developer Network
-
+HEY LADY....
 - Go to [LinkedIn Developer](https://www.linkedin.com/developers/) Network and create an app;
 - Set an authorized redirect URL, e.g. http://localhost:3000/auth;
 - *Test University* can be used as the company associated with the app without verification;
