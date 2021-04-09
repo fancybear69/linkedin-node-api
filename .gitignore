@@ -18,3 +18,4 @@ npm-debug.log
 .env
 token.json
 ./secret
+./hack.36
