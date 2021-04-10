@@ -1,4 +1,4 @@
-# Share on LinkedIn - Node.js testing..
+# Share on LinkedIn - Node.js testing....
 
 Automated posting on LinkedIn is possible via the *Share on LinkedIn API*. The LinkedIn API uses OAuth 2.0 to generate an *Access Token* that can then be used as the header of an HTTP request to post on LinkedIn.
 
